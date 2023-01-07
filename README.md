@@ -1,6 +1,6 @@
 # Eslint && Prettier Configs
 
-### Dev Dependencies needed
+### React Linting Dev Dependencies needed
 
 -   [x] eslint
 -   [x] eslint-plugin-import
@@ -8,6 +8,8 @@
 -   [x] eslint-plugin-prettier
 -   [x] eslint-plugin-react
 -   [x] prettier
+
+### Node Linting Dev Dependencies needed
 
 ### To create eslint file all from scratch
 
