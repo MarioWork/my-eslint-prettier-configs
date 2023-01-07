@@ -1,6 +1,6 @@
 # Eslint && Prettier Configs
 
-### React Linting Dev Dependencies needed
+### -> React Linting Dev Dependencies needed
 
 - [x] eslint
 - [x] eslint-plugin-import
@@ -12,10 +12,11 @@
 ```sh
   npm i --save-dev eslint eslint-plugin-import eslint-plugin-json eslint-plugin-prettier eslint-plugin-react prettier 
 ```
+#
 
-### Node Linting Dev Dependencies needed
+### -> Node Linting Dev Dependencies needed
 
-### To create eslint file all from scratch
+### -> To create eslint file all from scratch
 
 ```sh 
   npm init @eslint/config 
