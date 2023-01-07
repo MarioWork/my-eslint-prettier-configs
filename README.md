@@ -2,12 +2,12 @@
 
 ### Dev Dependencies needed
 
--   [] eslint
--   [] eslint-plugin-import
--   [] eslint-plugin-json
--   [] eslint-plugin-prettier
--   [] eslint-plugin-react
--   [] prettier
+-  [x] eslint
+-  [x] eslint-plugin-import
+-  [x] eslint-plugin-json
+-  [x] eslint-plugin-prettier
+-  [x] eslint-plugin-react
+-  [x] prettier
 
 ### To create eslint file all from scratch
 
