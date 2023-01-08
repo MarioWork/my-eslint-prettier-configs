@@ -26,7 +26,7 @@
 3. Follow the [Prettier Docs](https://prettier.io/docs/en/configuration.html) for whats next for prettier formatting using eslint rules
 
 
-### To run linting script
+### -> To run linting script
 ```sh
   npx eslint .
  ```
